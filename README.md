@@ -29,5 +29,3 @@ You should have NodeJS 10+ installed on your local development machine with wide
 
 8)  Create a React page that POSTs a zip code to a new server route that uses the 
     same weather forecast API and display the forecasted high for tomorrow.  
-    
-    Return the React page at the route "/tomorrow"
