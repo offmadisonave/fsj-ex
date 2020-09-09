@@ -4,7 +4,7 @@
 
 ### Requirements
 
-You should have NodeJS 10+ installed on your local development machine with wide area network availability.
+You should have NodeJS 10+ installed on your local development machine with wide area network availability.  You are encouraged to share your entire screen during the exercise and make use of your favorite tools and libraries.
 
 ### Instructions
 
@@ -20,7 +20,7 @@ You should have NodeJS 10+ installed on your local development machine with wide
 
 6)  Create a route that takes a parameter for zip code, obtains the 
     forecast from openweathermap.org and returns the average 
-    high and low temperatures for each day returned.
+    high and low temperatures for every period returned in Fahrenheit.
 
     GET https://api.openweathermap.org/data/2.5/forecast?zip={ZIP_CODE}&appid={OPEN_WEATHER_API_KEY}
 
